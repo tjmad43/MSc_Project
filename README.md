@@ -1,6 +1,6 @@
 # MSc_Project
 
-This repository is a log of my masters research project on neutrino measurements in the NOvA experiment. 
+This repository is a log of my masters research project on neutrino measurements in the NOvA experiment. Started October 2023.
 
 Important files:
 - (don’t exist yet)
