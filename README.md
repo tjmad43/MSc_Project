@@ -8,4 +8,4 @@ Important files:
 Less important files:
 - TechnicalBits.md - a record of everything I have installed to run the notebooks and issues in the installation process.
 - Biblliography.md - record of references, links
-- Log.md - record of progress through the project
+- Logs - record of progress through the project
