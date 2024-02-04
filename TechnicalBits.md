@@ -11,7 +11,7 @@ check current version: <br>
 however in Jupyter notebook: <br>
   `import ROOT`
   -> ModuleNotFoundError <br>
-because of conda environment? or installed in the wrong place?
+installed in the wrong place? or needs to be in conda environment?
 
 tried installing in a different way <br>
   `conda install conda-forge::root`
